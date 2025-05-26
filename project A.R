@@ -1,5 +1,3 @@
-#Coded by: Sejal Mogalgiddi, Joaquin Hidalgo-Estrada
-
 #opening and importing data set
 df <- data.frame(fuel)
 # printing out the data set to see the first few values.
